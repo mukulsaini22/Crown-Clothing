@@ -1,4 +1,4 @@
-# Crown-clothing Store - An Ecommerce Web App using React.
+# Crown-clothing-Store - An Ecommerce Web App 
  
  
  https://crown-cloth-store.web.app/
