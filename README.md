@@ -12,6 +12,7 @@
 4. Managing the State using Redux 
 5. How React Routers Works
 6. Working With Fuctional Component
+7. How to Use Stripe Payment gateway in React App
 
 ## Available Scripts
 
