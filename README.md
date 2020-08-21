@@ -3,7 +3,16 @@
  
  https://crown-cloth-store.web.app/
  
- 
+
+# What i Have i learn from This Project :
+1. React Js Basics Fundamentals
+2. How to Work With Api
+3. How authentication work in React App
+  In this Crown Clothing Store App I choose Firebase For Authentication
+4. Managing the State using Redux 
+5. How React Routers Works
+6. Working With Fuctional Component
+
 ## Available Scripts
 
 In the project directory, you can run:
